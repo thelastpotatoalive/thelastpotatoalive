@@ -37,7 +37,7 @@ I'm a 2nd year Electrical & Electronic Engineering student at University College
 
 ## 📌 Featured projects
 
-### 🖥️ [system-monitor](https://github.com/thelastpotato/system-monitor)
+### 🖥️ [system-monitor](https://github.com/thelastpotatoalive/system-monitor)
 > Live system monitor with a colour-coded terminal dashboard and Flask web interface. Tracks CPU, memory, disk, and network in real time with configurable alerts and CSV logging.
 > 
 > `Python` `psutil` `Flask` `Linux`
