@@ -37,12 +37,20 @@ I'm a 2nd year Electrical & Electronic Engineering student at University College
 
 ## 📌 Featured projects
 
-### 🖥️ [system-monitor](https://github.com/thelastpotatoalive/system-monitor)
-> Live system monitor with a colour-coded terminal dashboard and Flask web interface. Tracks CPU, memory, disk, and network in real time with configurable alerts and CSV logging.
-> 
-> `Python` `psutil` `Flask` `Linux`
+### 🎵 [genre-classifier](https://github.com/thelastpotatoalive/genre-classifier)
+> Classifies music by genre using **signal processing** (MFCCs, FFT) and a Random Forest model, trained on the GTZAN dataset. Goes beyond building a classifier to diagnosing *why* it fails — with confusion-matrix error analysis and spectral insight.
+>
+> `Python` `librosa` `scikit-learn` `signal processing`
 
----
+### 📚 [notes-rag](https://github.com/thelastpotatoalive/notes-rag)
+> A fully **local** RAG system that answers questions about your own PDF notes — no API keys, no cloud, completely private. Runs a language model on-device with retrieval grounded in your documents.
+>
+> `Python` `sentence-transformers` `ChromaDB` `Ollama`
+
+### 🖥️ [system-monitor](https://github.com/thelastpotatoalive/system-monitor)
+> Live system monitor with a colour-coded terminal dashboard and a Flask web interface. Tracks CPU, memory, disk, and network in real time with configurable alerts and CSV logging.
+>
+> `Python` `psutil` `Flask` `Linux`---
 
 
 
