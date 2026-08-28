@@ -55,4 +55,3 @@ I'm a 2nd year Electrical & Electronic Engineering student at University College
 
 
 
-*UCL EEE · London · Open to SWE / Embedded / ML internships for Summer 2027*
