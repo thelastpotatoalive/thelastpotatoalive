@@ -2,7 +2,7 @@
 
 **EEE student @ UCL** exploring the space between hardware and software.
 
-I'm a 2nd year Electrical & Electronic Engineering student at University College London, currently building projects across three areas I'm genuinely curious about — embedded systems, machine learning, and software engineering. I come from a circuits-and-signals background and I'm teaching myself to write software that's actually useful.
+I'm a 3rd year Electrical & Electronic Engineering student at University College London, currently building projects across three areas I'm genuinely curious about — embedded systems, machine learning, and software engineering. I come from a circuits-and-signals background and I'm teaching myself to write software that's actually useful.
 
 ---
 
